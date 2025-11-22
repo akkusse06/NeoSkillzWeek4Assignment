@@ -9,7 +9,7 @@ The dashboard includes interactive visualizations to explore:
 - Salesperson and team rankings.
 - Time-based trends.
 
-Data covers shipments from approximately March 2023 to February 2024, with metrics like sales amounts, boxes shipped, and profit calculations.
+Used field parameters for map and trends so that we can understand how sales,costs,profit,boxes,shipments affect them
 
 # Features
 - Multi-Page Dashboard:
